@@ -1,5 +1,7 @@
-<h1>Hi 👋, I'm Omar Hani Bishr</h1>
-<p>A Computer Science Engineering Student and a Data Science Passionate from Alexandria, Egypt. </p>
+<div align="center">
+    <h1>Hi there 👋, I'm Omar</h1>
+    <p>A Computer Science Engineering Student and a Data Science Passionate from Alexandria, Egypt.</p>
+</div>
 
 # Projects 🚀
 
