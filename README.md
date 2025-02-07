@@ -3,6 +3,11 @@
     <p>A Computer Science Engineering Student and a Data Science Passionate from Alexandria, Egypt.</p>
 </div>
 
+
+
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+
+
 # Projects 🚀
 
 1. Web Development
