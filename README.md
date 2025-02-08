@@ -10,21 +10,40 @@
 
 # Projects 🚀
 
-1. Web Development
-   - [PathPort](https://github.com/mohassan5286/Software-Engineering)
-   - [Smart-City-Parking-Management-System](https://github.com/Mohamed-Mohamed-Ibrahim/Smart-City-Parking-Management-System)
-   - [Signal-Flow-Graph](https://github.com/Mohamed-Mohamed-Ibrahim/Signal-Flow-Graph)
-   - [Studiano](https://github.com/Mohamed-Mohamed-Ibrahim/Studiano)
-   - [Gmail](https://github.com/Mohamed-Mohamed-Ibrahim/Gmail)
-   - [Paint App](https://github.com/Mohamed-Mohamed-Ibrahim/Paint_App)
-2. AI & Data Science
-   - [Diamond-Project](https://github.com/Mohamed-Mohamed-Ibrahim/Diamond-Project)
-   - [Suduko-Solver-CSP]()
-   - [Connect-4-MiniMax]()
-   - [8-Puzzle-A-Star]()
-3. Software Development
-   - Root finder
-   - [Connect-4](https://github.com/Mohamed-Mohamed-Ibrahim/Connect-4)
+## **📌 1. AI & Data Science**  
+
+### 🔹 **Machine Learning & Data Science**  
+- [Applied-Data-Science-Capstone](https://github.com/OmarHani4306/Applied-Data-Science-Capstone)  
+- [Rain-Prediction-In-Australia-ML-Project](https://github.com/OmarHani4306/Rain-Prediction-In-Australia-ML-Project)  
+- [Data-Visualization-For-Historical-Automobile-Sales](https://github.com/OmarHani4306/Data-Visualization-For-Historical-Automobile-Sales)  
+- [House_Sales_in_King_Count_USA-Data-Analysis-with-python](https://github.com/OmarHani4306/House_Sales_in_King_Count_USA-Data-Analysis-with-python)  
+- [SQL-Python-Datasets-Analysis-Project](https://github.com/OmarHani4306/SQL-Python-Datasets-Analysis-Project)  
+- [Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard](https://github.com/OmarHani4306/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard)  
+
+### 🔹 **AI & Search Algorithms**  
+- [CSP-Sudoku-Solver](https://github.com/OmarHani4306/CSP-Sudoko-Solver-an-AI-Lab)  
+- [Connect-4-Solver](https://github.com/OmarHani4306/Connect-4-Solver-an-AI-Lab)  
+- [8-Puzzle-Solver](https://github.com/OmarHani4306/8-Puzzle-Solver-an-AI-Lab)  
+
+---
+
+## **🌐 2. Web Development**  
+> _Includes projects with both frontend & backend components, even if they are not traditional web applications._  
+- [PathPort-Software-Engineering-Final-Project](https://github.com/OmarHani4306/PathPort-Software-Engineering-Final-Project)  
+- [Smart-City-Parking-System-Database-Final-Project](https://github.com/OmarHani4306/Smart-City-Parking-System-Database-Final-Project)  
+- [Studiano-HCI-Final-Project](https://github.com/OmarHani4306/Studiano-HCI-Final-Project)  
+- [Gmail-like-app](https://github.com/OmarHani4306/Gmail-like-app)  
+- [Signal-Flow-Graph-and-Routh-Stability-Criterion](https://github.com/OmarHani4306/Signal-Flow-Graph-and-Routh-Stability-Criterion)  
+- [Producer-Consumer](https://github.com/OmarHani4306/Producer-Consumer)  
+- [Paint App](https://github.com/OmarHani4306/Paint-App)  
+
+---
+
+## **💻 3. Software Development**  
+- [Connect-4-game](https://github.com/OmarHani4306/Connect-4-game)  
+- [Numerical-Methods-for-Solving-Linear-and-Non-Linear-Equations](https://github.com/OmarHani4306/Numerical-Methods-for-Solving-Linear-and-Non-Linear-Equations)  
+
+---
 
 # Languages and Tools I Use 🛠️
 
