@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hi there 👋, I'm Omar</h1>
-    <p>A Computer Science Engineering Student and a Data Science Passionate from Alexandria, Egypt.</p>
+    <p>A Computer and Systems Engineering student and Data Science enthusiast from Alexandria, Egypt.</p>
 </div>
 
 
