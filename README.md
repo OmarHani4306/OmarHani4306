@@ -13,6 +13,10 @@
 ## **📌 1. AI & Data Science**  
 
 ### 🔹 **Machine Learning & Data Science**  
+- [Environmental-Sound-Classification](https://github.com/OmarHani4306/Environmental-Sound-Classification)
+- [Speech-Emotion-Recognition](https://github.com/OmarHani4306/Speech-Emotion-Recognition)
+- [Face-Recognition](https://github.com/OmarHani4306/Face-Recognition2)
+- [Heart-Failure-Classifier](https://github.com/OmarHani4306/Heart-Failure-Classifier)
 - [Applied-Data-Science-Capstone](https://github.com/OmarHani4306/Applied-Data-Science-Capstone)  
 - [Rain-Prediction-In-Australia-ML-Project](https://github.com/OmarHani4306/Rain-Prediction-In-Australia-ML-Project)  
 - [Data-Visualization-For-Historical-Automobile-Sales](https://github.com/OmarHani4306/Data-Visualization-For-Historical-Automobile-Sales)  
