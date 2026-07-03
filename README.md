@@ -32,7 +32,8 @@
 ---
 
 ## **🌐 2. Web Development**  
-> _Includes projects with both frontend & backend components, even if they are not traditional web applications._  
+> _Includes projects with both frontend & backend components, even if they are not traditional web applications._
+- [Weather-Stations-Monitor](https://github.com/OmarHani4306/Weather-Stations-Monitor)
 - [PathPort-Software-Engineering-Final-Project](https://github.com/OmarHani4306/PathPort-Software-Engineering-Final-Project)  
 - [Smart-City-Parking-System-Database-Final-Project](https://github.com/OmarHani4306/Smart-City-Parking-System-Database-Final-Project)  
 - [Studiano-HCI-Final-Project](https://github.com/OmarHani4306/Studiano-HCI-Final-Project)  
