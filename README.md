@@ -1,52 +1,70 @@
 <div align="center">
     <h1>Hi there 👋, I'm Omar</h1>
-    <p>A Computer and Systems Engineering student and Data Science enthusiast from Alexandria, Egypt.</p>
+    <p>A Computer and Systems Engineering graduate and an AI enthusiast from Alexandria, Egypt.</p>
 </div>
-
-
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-
 # Projects 🚀
 
-## **📌 1. AI & Data Science**  
-
-### 🔹 **Machine Learning & Data Science**  
-- [Environmental-Sound-Classification](https://github.com/OmarHani4306/Environmental-Sound-Classification)
-- [Speech-Emotion-Recognition](https://github.com/OmarHani4306/Speech-Emotion-Recognition)
-- [Face-Recognition](https://github.com/OmarHani4306/Face-Recognition2)
-- [Heart-Failure-Classifier](https://github.com/OmarHani4306/Heart-Failure-Classifier)
-- [Applied-Data-Science-Capstone](https://github.com/OmarHani4306/Applied-Data-Science-Capstone)  
-- [Rain-Prediction-In-Australia-ML-Project](https://github.com/OmarHani4306/Rain-Prediction-In-Australia-ML-Project)  
-- [Data-Visualization-For-Historical-Automobile-Sales](https://github.com/OmarHani4306/Data-Visualization-For-Historical-Automobile-Sales)  
-- [House_Sales_in_King_Count_USA-Data-Analysis-with-python](https://github.com/OmarHani4306/House_Sales_in_King_Count_USA-Data-Analysis-with-python)  
-- [SQL-Python-Datasets-Analysis-Project](https://github.com/OmarHani4306/SQL-Python-Datasets-Analysis-Project)  
-- [Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard](https://github.com/OmarHani4306/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard)  
-
-### 🔹 **AI & Search Algorithms**  
-- [CSP-Sudoku-Solver](https://github.com/OmarHani4306/CSP-Sudoko-Solver-an-AI-Lab)  
-- [Connect-4-Solver](https://github.com/OmarHani4306/Connect-4-Solver-an-AI-Lab)  
-- [8-Puzzle-Solver](https://github.com/OmarHani4306/8-Puzzle-Solver-an-AI-Lab)  
+## **🔬 1. Research & Development (R&D)**  
+- [Adaptive EASLT](https://github.com/OmarHani4306/Adaptive-EASLT)
+- [Brain Tumor Segmentation](https://github.com/OmarHani4306/Brain-Tumor-Segmentation---BRISC-2025)
 
 ---
 
-## **🌐 2. Web Development**  
-> _Includes projects with both frontend & backend components, even if they are not traditional web applications._
-- [Weather-Stations-Monitor](https://github.com/OmarHani4306/Weather-Stations-Monitor)
-- [PathPort-Software-Engineering-Final-Project](https://github.com/OmarHani4306/PathPort-Software-Engineering-Final-Project)  
-- [Smart-City-Parking-System-Database-Final-Project](https://github.com/OmarHani4306/Smart-City-Parking-System-Database-Final-Project)  
-- [Studiano-HCI-Final-Project](https://github.com/OmarHani4306/Studiano-HCI-Final-Project)  
-- [Gmail-like-app](https://github.com/OmarHani4306/Gmail-like-app)  
-- [Signal-Flow-Graph-and-Routh-Stability-Criterion](https://github.com/OmarHani4306/Signal-Flow-Graph-and-Routh-Stability-Criterion)  
+## **👁️ 2. Computer Vision**  
+- [Cartoonify Image & Lane Detection](https://github.com/OmarHani4306/cv-cartoonify-and-lane-detection)
+- [Stereo Vision](https://github.com/OmarHani4306/stereo-vision-depth)
+- [Augmented Reality and Image Mosaics](https://github.com/OmarHani4306/Augmented-Reality-and-Image-Mosaics)
+
+---
+
+## **🗣️ 3. Natural Language Processing (NLP)**  
+- [Code Generation and Guarding](https://github.com/OmarHani4306/Code-Generation-and-Guarding)
+- [Ngram Emotion Classifier](https://github.com/OmarHani4306/ngram-emotion-classifier)
+- [Named Entity Recognition](https://github.com/OmarHani4306/Named-Entity-Recognition)
+- [French-to-English NMT](https://github.com/OmarHani4306/French-to-English-NMT)
+
+---
+
+## **📊 4. AI & Data Science**  
+
+### 🔹 **Machine Learning & Data Science**  
+- [Environmental Sound Classification](https://github.com/OmarHani4306/Environmental-Sound-Classification)
+- [Speech Emotion Recognition](https://github.com/OmarHani4306/Speech-Emotion-Recognition)
+- [Face Recognition](https://github.com/OmarHani4306/Face-Recognition2)
+- [Heart Failure Classifier](https://github.com/OmarHani4306/Heart-Failure-Classifier)
+- [Applied Data Science Capstone](https://github.com/OmarHani4306/Applied-Data-Science-Capstone)  
+- [Rain Prediction In Australia ML Project](https://github.com/OmarHani4306/Rain-Prediction-In-Australia-ML-Project)  
+- [Data Visualization For Historical Automobile Sales](https://github.com/OmarHani4306/Data-Visualization-For-Historical-Automobile-Sales)  
+- [House Sales in King County USA Data Analysis with Python](https://github.com/OmarHani4306/House_Sales_in_King_Count_USA-Data-Analysis-with-python)  
+- [SQL Python Datasets Analysis Project](https://github.com/OmarHani4306/SQL-Python-Datasets-Analysis-Project)  
+- [Analyzing Historical Stock Revenue Data and Building a Dashboard](https://github.com/OmarHani4306/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard)  
+
+### 🔹 **AI & Search Algorithms**  
+- [CSP Sudoku Solver](https://github.com/OmarHani4306/CSP-Sudoko-Solver-an-AI-Lab)  
+- [Connect-4 Solver](https://github.com/OmarHani4306/Connect-4-Solver-an-AI-Lab)  
+- [8-Puzzle Solver](https://github.com/OmarHani4306/8-Puzzle-Solver-an-AI-Lab)  
+
+---
+
+## **🌐 5. Web & Data Engineering**  
+> _Includes projects with both frontend & backend components, along with data-intensive applications._
+- [Weather Stations Monitor](https://github.com/OmarHani4306/Weather-Stations-Monitor)
+- [PathPort Software Engineering Final Project](https://github.com/OmarHani4306/PathPort-Software-Engineering-Final-Project)  
+- [Smart City Parking System Database Final Project](https://github.com/OmarHani4306/Smart-City-Parking-System-Database-Final-Project)  
+- [Studiano HCI Final Project](https://github.com/OmarHani4306/Studiano-HCI-Final-Project)  
+- [Gmail-like App](https://github.com/OmarHani4306/Gmail-like-app)  
+- [Signal Flow Graph and Routh Stability Criterion](https://github.com/OmarHani4306/Signal-Flow-Graph-and-Routh-Stability-Criterion)  
 - [Producer-Consumer](https://github.com/OmarHani4306/Producer-Consumer)  
 - [Paint App](https://github.com/OmarHani4306/Paint-App)  
 
 ---
 
-## **💻 3. Software Development**  
-- [Connect-4-game](https://github.com/OmarHani4306/Connect-4-game)  
-- [Numerical-Methods-for-Solving-Linear-and-Non-Linear-Equations](https://github.com/OmarHani4306/Numerical-Methods-for-Solving-Linear-and-Non-Linear-Equations)  
+## **💻 6. Software Development**  
+- [Connect-4 Game](https://github.com/OmarHani4306/Connect-4-game)  
+- [Numerical Methods for Solving Linear and Non-Linear Equations](https://github.com/OmarHani4306/Numerical-Methods-for-Solving-Linear-and-Non-Linear-Equations)  
 
 ---
 
@@ -80,8 +98,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55" />
 </a>
 
-
-
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="63" height="63" /></a>
 <a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="63" height="63" /></a>
 <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="63" height="63" /></a>
@@ -105,7 +121,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code" width="55" height="55" />
 </a>
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/omar-hani-bishr-11389a248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-hani-bishr-11389a248" height="30" width="40" /></a>
@@ -120,9 +135,5 @@
     <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarHani4306&show_icons=true&locale=en&layout=compact" alt="Omar Hani Bishr" /></p>
     <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OmarHani4306" alt="Omar Hani Bishr" /></a></p>
 </details>
-
-
-
-
 
 ![snake gif](https://github.com/OmarHani4306/OmarHani4306/blob/output/github-snake-dark.svg)
