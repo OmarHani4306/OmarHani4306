@@ -17,6 +17,7 @@
 - [Cartoonify Image & Lane Detection](https://github.com/OmarHani4306/cv-cartoonify-and-lane-detection)
 - [Stereo Vision](https://github.com/OmarHani4306/stereo-vision-depth)
 - [Augmented Reality and Image Mosaics](https://github.com/OmarHani4306/Augmented-Reality-and-Image-Mosaics)
+- [Object Detection Models Comparison](https://github.com/OmarHani4306/Object-Detection-Models-Comparison)
 
 ---
 
